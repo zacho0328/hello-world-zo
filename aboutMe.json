@@ -1,0 +1,20 @@
+{
+    "firstName":"Zachary",
+    "lastName":"Offerman",
+    "gender":"male",
+    "age":"19",
+    "favorites":{
+        "movie":"Inglorious Basterds",
+        "videoGame":"Guitar Hero 3",
+        "show":"Mr. Robot",
+    },
+    "favoriteGenres":[{
+        "name":"Grunge"
+    },{
+        "name":"Nu Metal"
+    },{
+        "name":"Rock"
+    },{
+        "name":"Punk"
+    }]
+}
