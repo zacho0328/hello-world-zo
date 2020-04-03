@@ -1,3 +1,5 @@
 [
-    { "Name":"Zachary Offerman", "Email":"zacharymofferman@lewisu.edu", "ContactURL":"https://hello-world-zo.azurewebsites.net/aboutMe.json"}
+    { "Name":"Zachary Offerman", "Email":"zacharymofferman@lewisu.edu", "ContactURL":"https://hello-world-zo.azurewebsites.net/aboutMe.json"},
+    { "Name":"Zachary Offerman", "Email":"zacharymofferman@lewisu.edu", "ContactURL":"https://hello-world-zo.azurewebsites.net/don.json"},
+    { "Name":"Zachary Offerman", "Email":"zacharymofferman@lewisu.edu", "ContactURL":"https://hello-world-zo.azurewebsites.net/no.json"}
 ]
