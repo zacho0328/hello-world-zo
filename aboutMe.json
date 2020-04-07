@@ -1,21 +1,11 @@
 {
     "firstName":"Zachary",
     "lastName":"Offerman",
-    "gender":"male",
-    "age":"20",
-    "seatLocation" : "16",
-    "favorites":{
-        "movie":"Inglorious Basterds",
-        "videoGame":"Guitar Hero 3",
-        "show":"Mr. Robot"
-    },
-    "favoriteGenres":[{
-        "name":"Grunge"
-    },{
-        "name":"Nu Metal"
-    },{
-        "name":"Rock"
-    },{
-        "name":"Punk"
-    }]
+    "preferredName":"Zach",
+    "email":"zacharymofferman@lewisu.edu",
+    "phoneNumber":"",
+    "City":"Joliet",
+    "State":"Illinois",
+    "Zip":"60435",
+    "seatLocation" : "16"
 }
